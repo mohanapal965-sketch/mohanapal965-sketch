@@ -2,7 +2,7 @@
 🎓MCA Student| Aspiring Web Developer
 Welcome to my GitHub profile !
 I'm currently pursuing my Master of Computer Application(MCA) and passionate about learning new technologies and developing practical projects
-Email Me 👉 📧mohanapal965@gmail.com
+
 🚀About Me
 - 🎓 MCA Student
 - 💻 Interested in Web Development.
